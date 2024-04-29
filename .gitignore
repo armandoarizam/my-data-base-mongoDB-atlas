@@ -1,0 +1,12 @@
+# Ignorar archivos generados automáticamente
+node_modules/
+npm-debug.log
+.DS_Store
+
+# Ignorar archivos de configuración específicos
+.env
+.env.local
+
+# Ignorar directorios de compilación
+dist/
+build/
